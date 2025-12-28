@@ -1,1 +1,2 @@
 my python learning progress record
+created day1 practice file and added into github 
